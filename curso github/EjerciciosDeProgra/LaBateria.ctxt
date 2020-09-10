@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=LaBateria
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LaBateria\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=Bateria
+comment1.target=LaBateria(double)
+comment2.params=Minutos\ Hora
+comment2.target=double\ GastoEnRedes(int,\ int)
+comment3.params=Minutos\ Hora
+comment3.target=double\ GastoEnJuegos(int,\ int)
+comment4.params=Minutos\ Hora
+comment4.target=double\ GastoEnYoutobe(int,\ int)
+comment5.params=
+comment5.target=double\ bateriaActual()
+numComments=6
